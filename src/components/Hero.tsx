@@ -14,7 +14,7 @@ const Hero = () => {
         >
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-6">
             <span className="bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 bg-clip-text text-transparent">
-              你好，我是开发者
+              你好，我是lyz
             </span>
           </h1>
         </motion.div>
